@@ -1,5 +1,5 @@
 ## IMAGE-to-DATA
-#Abstract 
+**Abstract** 
 In the e-commerce domain, extracting meaningful and structured data from product 
 images is crucial for enhancing digital storefronts. Many products lack detailed textual 
 descriptions, making it necessary to rely on image-based information for key attributes such as 
@@ -19,7 +19,7 @@ precision and recall. This research highlights the potential of integrating mult
 image understanding tasks and provides a scalable framework for automating product 
 information extraction, catering to the growing demands of digital marketplaces. 
 
-#Introduction 
+**Introduction **
 As digital marketplaces expand, the demand for automated solutions to extract 
 structured information from unstructured data grows significantly. Many e-commerce 
 platforms rely heavily on product images to provide key details like weight, dimensions, 
